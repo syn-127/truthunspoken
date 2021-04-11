@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="" />
+    <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Configuration.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r1TRkI34R8HsX9XQL4VBFbdA5f" />
   <component name="ProjectViewState">
@@ -41,6 +46,7 @@
       <updated>1618142589543</updated>
       <workItem from="1618142590599" duration="9000" />
       <workItem from="1618142645011" duration="2356000" />
+      <workItem from="1618147045730" duration="186000" />
     </task>
     <servers />
   </component>

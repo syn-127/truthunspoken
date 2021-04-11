@@ -14,6 +14,8 @@ original ZeroBin. It is, however, still fully compatible to the original ZeroBin
 data storage scheme. Therefore, such installations can be upgraded to PrivateBin
 without losing any data.
 
+This also forks : Private Bin https://github.com/PrivateBin/PrivateBin/releases/latest
+
 ## What Truth Unspoken provides
 
 + As a server administrator you don't have to worry if your users post content

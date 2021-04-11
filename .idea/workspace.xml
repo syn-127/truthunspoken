@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Configuration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/darkstrap-0.9.3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap/darkstrap-0.9.3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
       <updated>1618142589543</updated>
       <workItem from="1618142590599" duration="9000" />
       <workItem from="1618142645011" duration="2356000" />
-      <workItem from="1618147045730" duration="186000" />
+      <workItem from="1618147045730" duration="1580000" />
     </task>
     <servers />
   </component>

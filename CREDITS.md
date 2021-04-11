@@ -2,14 +2,15 @@
 
 ## Active contributors
 
-Simon Rupf - current developer and maintainer  
-rugk - security review, doc improvment, JS refactoring & various other stuff  
-R4SAS - python client, compression, blob URI to support larger attachments
+Syn127 - current developer and maintainer
 
 ## Past contributions
 
 Sébastien Sauvage - original idea and main developer
 
+* Simon Rupf - current developer and maintainer  
+* rugk - security review, doc improvment, JS refactoring & various other stuff  
+* R4SAS - python client, compression, blob URI to support larger attachments
 * Alexey Gladkov - syntax highlighting
 * Greg Knaddison - robots.txt
 * MrKooky - HTML5 markup, CSS cleanup

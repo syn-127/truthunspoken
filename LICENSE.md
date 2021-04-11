@@ -1,13 +1,13 @@
 # License
 
-PrivateBin consists of PHP and JS code which was originally written by Sébastien
+Truth Unspoken consists of PHP and JS code which was originally written by Sébastien
 Sauvage in 2012 and falls unter the Zlib/libpng license. Also included are
 libraries that fall under the GPLv2 (rawinflate), BSD 3-clause (Showdown), MIT
 (base64.js version 1.7, Bootstrap, Identicon, random_compat, composer, kjua,
 base-x), Apache (prettify.js) and CC-BY (favicon, icon, logo) licenses. All of
 these license terms can be found here below:
 
-## Zlib/libpng license for PrivateBin and zlib
+## Zlib/libpng license for Truth Unspoken and zlib
 
 Copyright © 2012 Sébastien Sauvage
 Copyright © 1995-2017 Jean-loup Gailly and Mark Adler

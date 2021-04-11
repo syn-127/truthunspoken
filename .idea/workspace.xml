@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1r1TRkI34R8HsX9XQL4VBFbdA5f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="Unnamed" created="1618144738427" text="https://privatebin.info/" recursive="false" caseInsensitive="false" type="PHP" scope_type="MODULE" scope_descriptor="PrivateBin-master" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="" />
+      <created>1618142589543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618142589543</updated>
+      <workItem from="1618142590599" duration="9000" />
+      <workItem from="1618142645011" duration="2356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="364" width="943" height="349" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1618144738416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="364" width="943" height="349" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618144738416" />
+    <state x="1148" y="168" width="585" height="801" key="find.popup" timestamp="1618145018083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1148" y="168" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618145018083" />
+    <state x="626" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1618144783437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="258" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618144783437" />
+  </component>
+</project>

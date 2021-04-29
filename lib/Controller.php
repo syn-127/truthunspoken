@@ -151,7 +151,7 @@ class Controller
     }
 
     /**
-     * initialize PrivateBin
+     * initialize Truth Unspoken
      *
      * @access private
      * @throws Exception

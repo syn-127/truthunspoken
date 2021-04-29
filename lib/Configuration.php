@@ -37,7 +37,7 @@ class Configuration
      */
     private static $_defaults = array(
         'main' => array(
-            'name'                     => 'PrivateBin',
+            'name'                     => 'Truth Unspoken',
             'basepath'                 => '',
             'discussion'               => true,
             'opendiscussion'           => false,
@@ -123,7 +123,7 @@ class Configuration
             $config = parse_ini_file($configFile, true);
             foreach (array('main', 'model', 'model_options') as $section) {
                 if (!array_key_exists($section, $config)) {
-                    throw new Exception(I18n::_('PrivateBin requires configuration section [%s] to be present in configuration file.', $section), 2);
+                    throw new Exception(I18n::_('Truth Unspoken requires configuration section [%s] to be present in configuration file.', $section), 2);
                 }
             }
         }

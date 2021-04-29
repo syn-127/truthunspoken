@@ -1,3 +1,11 @@
+# TruthUnspoken version history
+    
+   * **1.3.6 (2021-04-29)*
+      * Changed: Changed layout and style of page
+      * ADDED: Project Page
+      * Added: Content
+      * Changed: added new parameters and settings in the config file
+
 # PrivateBin version history
 
   * **1.4 (not yet released)**

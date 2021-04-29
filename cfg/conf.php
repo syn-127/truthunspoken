@@ -31,7 +31,7 @@ burnafterreadingselected = false
 defaultformatter = "plaintext"
 
 ; (optional) set a syntax highlighting theme, as found in css/prettify/
-; syntaxhighlightingtheme = "sons-of-obsidian"
+syntaxhighlightingtheme = "sons-of-obsidian"
 
 ; size limit per paste or comment in bytes, defaults to 10 Mebibytes
 sizelimit = 10485760
@@ -41,10 +41,10 @@ template = "bootstrap-dark"
 
 ; (optional) info text to display
 ; use single, instead of double quotes for HTML attributes
-;info = "More information on the <a href='https://github.com/syn-127/'>project page</a>."
+info = ""
 
 ; (optional) notice to display
-; notice = "Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service."
+notice = "Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service."
 
 ; by default PrivateBin will guess the visitors language based on the browsers
 ; settings. Optionally you can enable the language selection menu, which uses
@@ -99,7 +99,7 @@ qrcode = true
 ; Secure transport methods like Tor and I2P domains are automatically whitelisted.
 ; It is **strongly discouraged** to disable this.
 ; See https://github.com/PrivateBin/PrivateBin/wiki/FAQ#why-does-it-show-me-an-error-about-an-insecure-connection for more information.
-; httpwarning = true
+httpwarning = true
 
 ; Pick compression algorithm or disable it. Only applies to pastes/comments
 ; created after changing the setting.

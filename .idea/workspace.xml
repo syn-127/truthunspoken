@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="">
+    <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="Updated config and changelog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/privatebin.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/privatebin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Configuration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +68,45 @@
       <workItem from="1618142590599" duration="9000" />
       <workItem from="1618142645011" duration="2356000" />
       <workItem from="1618147045730" duration="3506000" />
-      <workItem from="1619733337696" duration="1927000" />
+      <workItem from="1619733337696" duration="6029000" />
+      <workItem from="1619955418977" duration="2114000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated CSS">
+      <created>1619735692411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619735692411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated config and changelog">
+      <created>1619738640133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619738640134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated CSS" />
+    <MESSAGE value="Updated config and changelog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated config and changelog" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="364" width="943" height="349" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1618144738416">

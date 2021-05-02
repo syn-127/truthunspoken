@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdae5ed7-c839-4e00-b20d-50e6a0f4b1f2" name="Default Changelist" comment="Updated config and changelog">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Configuration.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +67,7 @@
       <workItem from="1618147045730" duration="3506000" />
       <workItem from="1619733337696" duration="6029000" />
       <workItem from="1619955418977" duration="2114000" />
+      <workItem from="1619966491274" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Updated CSS">
       <created>1619735692411</created>

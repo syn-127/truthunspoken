@@ -48,7 +48,7 @@ class Configuration
             'syntaxhighlightingtheme'  => null,
             'sizelimit'                => 10485760,
             'template'                 => 'bootstrap',
-            'info'                     => 'More information on the <a href=\'https://github.com/syn-127/truthunspoken\'>project page</a>.',
+            'info'                     => 'More information on the project page.',
             'notice'                   => '',
             'languageselection'        => false,
             'languagedefault'          => '',
